@@ -10,7 +10,7 @@ I'm a Business and Data Science student focused on financial solutions using the
 ## 🎓 Fields of Study  
 Business undergraduate at the **Federal University of Paraná (UFPR)**
 
-Self-taught **Python** programmer focused on Data Science.
+Self-taught **Python** programmer focused on Data Science and Automation.
 
 ## 🌍 Location  
 Brazilian from **Curitiba**
