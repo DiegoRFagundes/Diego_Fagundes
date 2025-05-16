@@ -18,8 +18,9 @@ Brazilian from **Curitiba**
 ---
 
 ## 📫 Connect with me  
-**LinkedIn**: [Diego Fagundes](www.Diego-ribeiro-fagundes-bb691728a)  
-<!-- Or replace with other platforms like Twitter, Email, etc. -->
+**LinkedIn**: [Diego Fagundes](www.Diego-ribeiro-fagundes-bb691728a) 
+
+www.linkedin.com/in/diego-ribeiro-fagundes-bb691728a<!-- Or replace with other platforms like Twitter, Email, etc. -->
 
 ---
 
