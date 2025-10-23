@@ -1,6 +1,6 @@
 # Welcome to my profile! 👋
 
-I'm a Business and Data Science student focused on financial solutions using the **Python Language**.
+I'm a Business and Data Science student focused on financial, risk and data management using the **Python Language**.
 
 ---
 
